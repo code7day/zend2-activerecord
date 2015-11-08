@@ -1,0 +1,1 @@
+Modified Zend framework 2 Skeleton Application for using php ActiveRecord library.
